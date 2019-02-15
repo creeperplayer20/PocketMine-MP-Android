@@ -13,4 +13,5 @@
     <string name="phar_does_not_exist">Could not find file PocketMine-MP.phar!</string>
     <string name="kill">Kill server</string>
     <string name="not_enough_rights">To make the application work correctly, you need grant access to the memory of your device!</string>
+    <string name="join_beta">You can join to beta testing <b>v2.0.0!</b>\n\n 	https://play.google.com/apps/testing/io.scer.pocketmine</string>
 </resources>

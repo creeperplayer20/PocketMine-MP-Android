@@ -12,4 +12,5 @@
     <string name="kill">Убить севрер</string>
     <string name="phar_does_not_exist">Не могу найти PocketMine-MP.phar!</string>
     <string name="not_enough_rights">Чтобы приложение работало правильно, вам необходимо предоставить доступ к памяти вашего устройства!</string>
+    <string name="join_beta">Ты можешь принять участие в тестировании новой версии <b>2.0.0</b>! \n\n 	https://play.google.com/apps/testing/io.scer.pocketmine</string>
 </resources>

@@ -51,6 +51,15 @@
                     tools:ignore="ButtonStyle" />
 
             </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/join_beta"
+                android:layout_marginTop="16dp"
+                android:autoLink="web"
+                android:textSize="16sp"/>
         </LinearLayout>
     </ScrollView>
+
 </RelativeLayout>
